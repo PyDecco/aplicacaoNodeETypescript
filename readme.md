@@ -15,7 +15,7 @@ Transações
 </p>
 
 [//]: # (Add your gifs/images here:)
-<div>
+<div align="center">
   <img src="TRANSACTIONS.gif" alt="demo" height="300">
 </div>
 
@@ -32,7 +32,7 @@ Está aplicações utilizou o Javascript no backend.
 1. Clone this repo using `git clone
 https://github.com/PyDecco/aplicacaoNodeETypescript`;
 2. Mova-se para o diretório apropriado: `cd aplicacaoNodeETypescript`;
-3. Run yarn to install dependencies
+3. Run `yarn` to install dependencies
 4. Execute o `yarn dev:server` para iniciar o servidor;
 
 ## License
